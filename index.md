@@ -1,5 +1,5 @@
 ---
-title:
+title: ""
 ---
 
 # James Chen (陳小明)
