@@ -6,7 +6,7 @@ title: ""
 
 **Areas of Interest:** Data Science, Business Analytics, Digital Marketing, Fintech
 
-**Email:** asdf@asdf.com  
+**Email:** james26@thu.edu.tw  
 **Phone:** +886-912-345-678  
 **Location:** Taiwan  
 **LinkedIn:** LinkedIn
