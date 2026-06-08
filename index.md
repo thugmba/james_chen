@@ -1,3 +1,7 @@
+---
+title:
+---
+
 # James Chen (陳小明)
 
 **Areas of Interest:** Data Science, Business Analytics, Digital Marketing, Fintech
